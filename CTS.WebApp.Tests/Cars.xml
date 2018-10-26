@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarDetails>
+  <Car>
+    <ID>2</ID>
+    <Type>44</Type>
+    <Name>3</Name>
+    <Year>5</Year>
+  </Car>
+  <Car>
+    <ID>1</ID>
+    <Type>1</Type>
+    <Name>1</Name>
+    <Year>2</Year>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Type>ww</Type>
+    <Name>w</Name>
+    <Year>w</Year>
+  </Car>
+</CarDetails>
